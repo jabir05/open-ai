@@ -19,8 +19,8 @@ def main():
     load_dotenv()
 
     #this codechunk is used to add a sidebar of information to the user.
-    st.header('SnapRead v0.1')
-    st.sidebar.header(":blue[Welcome to SnapRead!]")
+    st.header('pdf chatbot v0.1')
+    st.sidebar.header(":blue[Welcome to welcome pdf chatbot!]")
     
     st.sidebar.write('SnapRead is a web app that allows you to upload a PDF file and ask questions about it. You can use this service to shorten lengthy PDF documents into quickly readble texts. You can also ask questions about the PDF you uploaded and get answers from the app.')
     st.sidebar.write("")
@@ -34,7 +34,7 @@ def main():
     st.sidebar.write("")
     st.sidebar.write("")
     st.sidebar.write("")
-    st.sidebar.write(" :blue[Crafted with :heart: by Luke @Hypercube] | 2023")
+    st.sidebar.write(" :blue[Crafted with :heart: by @jabir] | 2024")
 
     st.sidebar.write("")
     st.sidebar.write("")
