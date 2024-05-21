@@ -13,4 +13,4 @@ To get started,
 6. Enjoy...
 
 
-Demo : [https://snapread.streamlit.app](https://snapread.streamlit.app/)
+Demo : https://open-ai-v9i6m5bybpi8obejtbpsdl.streamlit.app/
